@@ -6,3 +6,4 @@ The program asks the user to enter:
  Time period
 It then calculates the simple interest using the formula:
 Simple Interest = (Principal × Rate × Time) / 100
+ 
